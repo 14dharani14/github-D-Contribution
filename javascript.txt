@@ -1,1 +1,1 @@
-Javascript is not Java
+Javascript and Typescript is same.
